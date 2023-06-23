@@ -1,0 +1,4 @@
+pydm
+pandas
+pytest
+pytest-qt
